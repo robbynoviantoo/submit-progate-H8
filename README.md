@@ -8,4 +8,3 @@ Robby Novianto
 M. Farros Azmi F
 karyadi
 
-live test : https://ksmora.github.io/Progate-Submission/
